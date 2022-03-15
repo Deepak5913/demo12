@@ -1,1 +1,1 @@
-This is an instruction manualy done
+This is an instruction manualy done for project
